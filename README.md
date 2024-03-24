@@ -16,7 +16,11 @@ Image Equalization and contrast stretching are 2 techniques to enhance image
   
   
   using this equation 
-        -![image](https://github.com/Eng-Abdelrahman-Mostafa-Mohamed/Image-preprocessing/assets/116603423/fafdd643-2c15-4090-a770-0f53f2e72676)
+        
+        
+        
+        
+  ![image](https://github.com/Eng-Abdelrahman-Mostafa-Mohamed/Image-preprocessing/assets/116603423/fafdd643-2c15-4090-a770-0f53f2e72676)
 
   
 
